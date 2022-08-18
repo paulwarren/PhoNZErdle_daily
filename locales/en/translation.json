@@ -1,0 +1,102 @@
+{
+    "about": "Sources",
+	"aboutPhoNZE": "Instructions",
+    "gameName": "{{language}}rdle",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "Not enough letters",
+    "wordNotFound": "Word not found",
+    "solution": "The word was /{{solution}}/ ({{spelling}})",
+    "gameCopied": "Game copied to clipboard",
+    "howToPlay": "How to play",
+    "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
+    "pickYourLanguage": "Choose a language",
+    "correctSpotInstructions": "The phoneme /ʃ/ is in the word and in the correct spot.",
+    "wrongSpotInstructions": "The phoneme /f/ is in the word but in the wrong spot.",
+    "notInWordInstructions": "The phoneme /n/ is not in the word in any spot.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Statistics",
+    "totalTries": "Total tries",
+    "successRate": "Success rate",
+    "currentStreak": "Current streak",
+    "bestStreak": "Best streak",
+    "newWordCountdown": "New word in",
+    "share": "Share",
+    "winMessages": [
+        "Great Job!",
+        "Awesome",
+        "Well done!"
+    ],
+    "firstExampleWord": [{
+            "letter": "ʃ",
+            "highlight": true
+        },
+        {
+            "letter": "ɒ",
+            "highlight": false
+        },
+        {
+            "letter": "p",
+            "highlight": false
+        },
+        {
+            "letter": "ɘ",
+            "highlight": false
+        },
+        {
+            "letter": "ŋ",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "m",
+            "highlight": false
+        },
+        {
+            "letter": "ɐ",
+            "highlight": false
+        },
+        {
+            "letter": "f",
+            "highlight": true
+        },
+        {
+            "letter": "l",
+            "highlight": false
+        },
+        {
+            "letter": "ɘ",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "t",
+            "highlight": false
+        },
+        {
+            "letter": "ɹ",
+            "highlight": false
+        },
+        {
+            "letter": "e",
+            "highlight": false
+        },
+        {
+            "letter": "n",
+            "highlight": true
+        },
+        {
+            "letter": "d",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The transcriptions of words for this game are based mainly on re-coding of transcriptions in BEEP (https://www.openslr.org/14/) but in part also on a NZE dictionary under development by Catherine Watson (https://profiles.auckland.ac.nz/c-watson). ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "zh": "中文"
+	}
+}
